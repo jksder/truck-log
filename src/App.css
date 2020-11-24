@@ -1,0 +1,14 @@
+html,body,#root,.App,.layout{
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+}
+
+*{
+    font-family: "Poppins",'sanse-serif';
+}

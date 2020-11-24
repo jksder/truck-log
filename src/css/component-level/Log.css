@@ -1,0 +1,26 @@
+.log-cont {
+  margin-top: 4em;
+}
+
+.log-cont .log-table {
+  border: 1px solid #ddd;
+  width: 100%;
+  padding: 8px;
+  border-collapse: collapse;
+}
+
+.log-cont .log-table th,
+.log-cont .log-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  min-width: 7em;
+}
+
+.log-cont .log-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #048a35;
+  color: white;
+  min-width: 7em;
+}
